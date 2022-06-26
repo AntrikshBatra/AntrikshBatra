@@ -4,7 +4,7 @@
 ## I'm an engineering Student !! 
 
 - 😄 I'm currently working on native android development and flutter
-- ✍️ I’m currently learning more in android development,flutter & DSA   
+- ✍️ I’m currently learning more in flutter & DSA   
 - 👯 I’m looking to collaborate  on any open source project on android
 - 🚀 Looking for help with Android 
 - 🙋‍♂️ Ask me about Java , kotlin, oops and Android
