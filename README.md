@@ -7,7 +7,7 @@
 - ✍️ I’m currently learning more in flutter & DSA   
 - 👯 I’m looking to collaborate  on any open source project on android
 - 🚀 Looking for help with Android 
-- 🙋‍♂️ Ask me about Java , kotlin, oops and Android
+- 🙋‍♂️ Ask me about Java , kotlin, oops and Flutter
 - 🏠 How to reach me  [<img align="center"  alt="Antriksh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - ⚡ Fun fact:My Name
 
